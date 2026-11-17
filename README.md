@@ -61,8 +61,11 @@ The script stops if a day is missing, a row appears twice, or the test isn't who
 
 If you want a second opinion on your readout before you move budget on it, send me a note and we'll talk it through: [Get in touch](https://brinkeranalytics.com/contact).
 
+Reading a finished test into a budget move? [Would It Have Sold Anyway?](https://brinkeranalytics.com/guides/would-it-have-sold-anyway) is the path from a first-channel choice to that move. It also covers the readout.
+
 ## Free reading on brinkeranalytics.com
 
+- [One-page incrementality test readout template](https://brinkeranalytics.com/insights/test-readout-template)
 - [How to run a geo holdout test, step by step](https://brinkeranalytics.com/insights/first-geo-holdout-step-by-step)
 - [Ending incrementality tests too early?](https://brinkeranalytics.com/insights/lift-tests-ending-too-early)
 - [Geo test power analysis: will your test see the lift?](https://brinkeranalytics.com/insights/geo-test-power-check)
